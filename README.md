@@ -1,0 +1,2 @@
+# ELECTRA
+ Inventory Management System

@@ -1,0 +1,114 @@
+  <style>
+ *{padding:0; margin:0;}  
+        a {text-decoration: none;}
+        li{list-style: none; font-family: sans-serif;}
+        .main-nav {width:200px;background:black ;}
+        .main-nav a {
+       font-family: sans-serif;
+       font-size: 15px;
+            color:#fcfcfd;
+        display: block;
+        padding:30px 0 10px 20px;
+        border-bottom:1px hidden;
+        }
+        .main-nav a:hover{background:#fcfcfd;}
+        .main-nav a:hover{color:black;}
+        .main-nav-ul ul{display:none;}
+        .main-nav-ul li:hover ul{display: block;}
+            a:link {
+    text-decoration: none;
+}
+        a.active {
+    background-color:black;
+    color:grey;
+}
+     .ul2{
+         background-color: darkcyan;
+         color: white;
+     }
+        .main{
+position:absolute;
+bottom:-37%;
+right:8%;
+border-radius:10px;
+background-color:#fcfcfd;
+border-color: #d9dbdd;
+border-style:solid;
+border-width: thin;
+height: 800px;
+width: 1000px;
+margin:3;
+padding:3;
+font-family: sans-serif;
+color:darkslategrey;
+        }
+   .webtop{
+            background-color:black;
+            width:1510px;
+            height:40px;
+            color:#fcfcfd;
+        }          
+            
+.border{
+            border-radius: 10px;
+            height:35px;
+        background-color:#ededf3;
+        color:darkslategrey;
+        }
+         .submit{
+        border-radius: 10px;
+            width:85px;
+        height:40px;
+         background-color:#ededf3;
+        font-weight:bold;
+            color:darkslategrey;
+    } 
+        
+    .t-view{
+            height: 80px;
+            width: 900px;
+            color:darkslategrey;
+             font-size: 14px;
+            
+        }
+     th{
+         background-color:black;
+         color:#fcfcfd ;
+     }
+     .td-view{
+         background-color: #fcfcfd;
+     }
+        
+     .profile{
+         background-color:darkcyan;
+         height: 95px;
+         width: 200px;
+         color:white;
+         
+     }  
+     .border{
+            border-radius: 10px;
+            height:35px;
+        background-color:#ededf3 ;
+        color:darkslategrey;
+        }
+
+     .side{
+         background-color: black;
+            height: 520px;
+         width: 200px;
+     }
+.submit{
+        border-radius: 10px;
+            width:80px;
+        height:40px;
+         background-color:#ededf3 ;
+        font-weight:bold;
+            color:darkslategrey;
+    }
+         caption{caption-side: top;}
+     body{
+         background-color:#fcfcfd;
+     }
+footer{font-size:100%;text-align:center;background-color:black;color:#fcfcfd;width:1510px;}
+</style>

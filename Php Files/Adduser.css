@@ -1,0 +1,109 @@
+<style>
+ .txt{
+            font-family: sans-serif;
+               color:darkslategrey;
+        }
+        .main{
+position:absolute;
+bottom:30%;
+right:12%;
+border-radius:10px;
+background-color:#fcfcfd;
+border-color: #d9dbdd;
+border-style:solid;
+border-width: thin;
+height: 350px;
+width: 950px;
+margin:3;
+padding:3;
+font-family: sans-serif;
+color:darkslategrey;
+            
+}
+*{padding:0; margin:0;}  
+        a {text-decoration: none;}
+        li{list-style: none; font-family: sans-serif;}
+        .main-nav {width:200px;background:black ;}
+        .main-nav a {
+       font-family: sans-serif;
+       font-size: 15px;
+            color:#fcfcfd;
+        display: block;
+        padding:30px 0 10px 20px;
+        border-bottom:1px hidden;
+        }
+        .main-nav a:hover{background:#fcfcfd;}
+        .main-nav a:hover{color:black;}
+        .main-nav-ul ul{display:none;}
+        .main-nav-ul li:hover ul{display: block;}
+            a:link {
+    text-decoration: none;   
+}
+        a.active {
+    background-color:black;
+    color:grey;
+}
+        caption{caption-side: top;}
+        
+        .border{
+            border-radius: 10px;
+            height:35px;
+        background-color:#ededf3 ;
+        color:darkslategrey;
+        }
+        .t-add{
+            height: 270px;
+            width: 970px;
+            color:darkslategrey;
+             font-size: 15px;
+        }
+        .submit{
+        border-radius: 10px;
+            width:85px;
+        height:40px;
+         background-color: #ededf3;
+        font-weight:bold;
+            color:darkslategrey;
+    }
+        
+        
+        .error{
+            font-size:11px;
+        color:red;
+        }
+        
+        .webtop{
+            background-color:black;
+            width:1520px;
+            height:40px;
+            color:#fcfcfd;
+}
+ .profile{
+         background-color:darkcyan;
+         height: 95px;
+         width: 200px;
+         color:white;
+         
+     }  
+
+       .ul2{
+         background-color: darkcyan;
+         color: white;
+     }
+
+     .side{
+         background-color: black;
+            height: 300px;
+         width: 200px;
+     }
+ textarea{
+            border-radius: 10px;
+        background-color:#ededf3 ;
+        color:darkslategrey;
+        }
+body{
+         background-color:#fcfcfd;
+     }
+footer{font-size:100%;text-align:center;background-color:black;color:#fcfcfd;width:1520px;}
+
+</style>
